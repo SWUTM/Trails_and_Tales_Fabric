@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "various_update:block/cherry_sapling"
+  },
+  "render_type": "cutout"
+}

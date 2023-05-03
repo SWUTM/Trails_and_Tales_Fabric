@@ -1,0 +1,51 @@
+{
+  "replace": false,
+  "values": [
+    "various_update:bamboo_block",
+    "various_update:stripped_bamboo_block",
+    "various_update:chiseled_stripped_bamboo_block",
+    "various_update:cherry_wood",
+    "various_update:cherry_log",
+    "various_update:cherry_planks",
+
+    "various_update:bamboo_button",
+    "various_update:stripped_bamboo_button",
+    "various_update:chiseled_stripped_bamboo_button",
+    "various_update:cherry_button",
+
+    "various_update:bamboo_pressure_plate",
+    "various_update:stripped_bamboo_pressure_plate",
+    "various_update:chiseled_stripped_bamboo_pressure_plate",
+    "various_update:cherry_pressure_plate",
+
+    "various_update:bamboo_slab",
+    "various_update:stripped_bamboo_slab",
+    "various_update:chiseled_stripped_bamboo_slab",
+    "various_update:cherry_slab",
+
+    "various_update:bamboo_stairs",
+    "various_update:stripped_bamboo_stairs",
+    "various_update:chiseled_stripped_bamboo_stairs",
+    "various_update:cherry_stairs",
+
+    "various_update:bamboo_fence",
+    "various_update:stripped_bamboo_fence",
+    "various_update:chiseled_stripped_bamboo_fence",
+    "various_update:cherry_fence",
+
+    "various_update:bamboo_fence_gate",
+    "various_update:stripped_bamboo_fence_gate",
+    "various_update:chiseled_stripped_bamboo_fence_gate",
+    "various_update:cherry_fence_gate",
+
+    "various_update:bamboo_door",
+    "various_update:stripped_bamboo_door",
+    "various_update:chiseled_stripped_bamboo_door",
+    "various_update:cherry_door",
+
+    "various_update:bamboo_trapdoor",
+    "various_update:stripped_bamboo_trapdoor",
+    "various_update:chiseled_stripped_bamboo_trapdoor",
+    "various_update:cherry_trapdoor"
+  ]
+}

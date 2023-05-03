@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence",
+  "key": {
+    "W": {
+      "item": "various_update:cherry_log"
+    }
+  },
+  "pattern": [
+    "WW",
+    "WW"
+  ],
+  "result": {
+    "count": 4,
+    "item": "various_update:cherry_wood"
+  }
+}

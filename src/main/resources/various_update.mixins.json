@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.swutm.various_update.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "SignTypeAccessor",
+    "BlockEntityTypeMixin"
+  ],
+  "client": [
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "item": "various_update:cherry_planks"
+    },
+    "o": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "WoW",
+    "WWW",
+    " W "
+  ],
+  "result": {
+    "item": "minecraft:shield"
+  }
+}

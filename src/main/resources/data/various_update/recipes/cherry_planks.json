@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "various_update:cherry_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "various_update:cherry_planks"
+  }
+}
